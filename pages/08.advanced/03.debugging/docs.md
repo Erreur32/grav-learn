@@ -95,7 +95,7 @@ errors:
 
 ## Logging
 
-The ability to log information is often useful, and once again, Grav provides us with a simple put powerful logging feature.  Use one of the following syntaxes:
+The ability to log information is often useful, and once again, Grav provides us with a simple but powerful logging feature.  Use one of the following syntaxes:
 
 [prism classes="language-twig line-numbers"]
 $this->grav['log']->info('My informational message');
